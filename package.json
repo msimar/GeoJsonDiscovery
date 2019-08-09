@@ -1,0 +1,16 @@
+{
+  "name": "isPointExistInGeoJson",
+  "version": "1.0.0",
+  "description": "Find point in GeoJson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maninder Pal Singh",
+  "license": "ISC",
+  "dependencies": {
+    "@turf/helpers": "^6.1.4",
+    "@turf/inside": "^5.0.0",
+    "@turf/turf": "^5.1.6"
+  }
+}
